@@ -1,0 +1,5 @@
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-30T17:58:18.555Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-30T18:10:25.393Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-30T18:32:06.836Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-30T18:34:46.500Z"}
+{"err":{"code":"MODULE_NOT_FOUND","requireStack":["/home/runner/AstroMusic/commands/music/24_7.js","/home/runner/AstroMusic/handlers/commands.js","/home/runner/AstroMusic/index.js"]},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-30T19:46:44.540Z"}
